@@ -1,7 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
-import ImgDsDark from 'assets/img/ds-dark.svg'
-
 function Footer() {
     return (
         <footer className="footer mt-auto py-3 bg-dark">
